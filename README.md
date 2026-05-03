@@ -25,3 +25,13 @@ Retail_Cleaned.csv
 ## 📈 Conclusion
 
 This project provides insights into customer purchasing behavior and supports data-driven decision making.
+
+## 📊 Power BI Dashboard
+
+![Dashboard](dashboard.png)
+
+This dashboard provides insights into:
+- Sales trends over time
+- Top-performing products
+- Category-wise performance
+- Payment method analysis
